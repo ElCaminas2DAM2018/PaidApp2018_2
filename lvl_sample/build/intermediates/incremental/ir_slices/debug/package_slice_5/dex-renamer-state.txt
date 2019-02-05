@@ -1,0 +1,4 @@
+#Mon Feb 04 16:40:32 CET 2019
+base.0=/home/vmalonso/AndroidStudioProjects/Unit13/PaidApp2018_2/lvl_sample/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

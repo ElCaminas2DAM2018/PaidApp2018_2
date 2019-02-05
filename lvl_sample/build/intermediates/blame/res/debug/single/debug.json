@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/vmalonso/AndroidStudioProjects/Unit13/PaidApp2018_2/lvl_sample/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/vmalonso/AndroidStudioProjects/Unit13/PaidApp2018_2/lvl_sample/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/vmalonso/AndroidStudioProjects/Unit13/PaidApp2018_2/lvl_sample/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/home/vmalonso/AndroidStudioProjects/Unit13/PaidApp2018_2/lvl_sample/src/main/res/drawable/icon.png"
+    }
+]
